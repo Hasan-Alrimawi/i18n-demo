@@ -1,6 +1,6 @@
 import { Component, OnDestroy, OnInit } from '@angular/core';
 import { Observable, Subscription } from 'rxjs';
-import { TransmitterService } from '../services/transmitter.service';
+import { TransmitterService } from '../../services/transmitter.service';
 
 @Component({
   selector: 'app-acceptor',

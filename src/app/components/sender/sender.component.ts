@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { Observable } from 'rxjs';
-import { TransmitterService } from '../services/transmitter.service';
+import { TransmitterService } from '../../services/transmitter.service';
 
 @Component({
   selector: 'app-sender',
