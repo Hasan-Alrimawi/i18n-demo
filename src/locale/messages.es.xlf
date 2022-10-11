@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en-US" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="2506714520000417360" datatype="html">
+        <source> Receiver: </source>
+        <target> receptor</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/acceptor/acceptor.component.html</context>
+          <context context-type="linenumber">2,4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9145066750496954627" datatype="html">
+        <source> The last pressed button was: </source>
+        <target> El último botón presionado fue</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/acceptor/acceptor.component.html</context>
+          <context context-type="linenumber">5,7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7708270344948043036" datatype="html">
+        <source> <x id="INTERPOLATION" equiv-text="{{data.text}}"/> </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/acceptor/acceptor.component.html</context>
+          <context context-type="linenumber">8,10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6211809526158128974" datatype="html">
+        <source> Sender: </source>
+        <target> Remitente</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/sender/sender.component.html</context>
+          <context context-type="linenumber">2,4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3985035149853181001" datatype="html">
+        <source> The following buttons will send their content to the components on the right section </source>
+        <target> Los siguientes botones enviarán su contenido a los componentes de la sección derecha</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/sender/sender.component.html</context>
+          <context context-type="linenumber">5,7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7314335714776818797" datatype="html">
+        <source> Apple </source>
+        <target> Manzana </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/sender/sender.component.html</context>
+          <context context-type="linenumber">8,10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7734382532630388490" datatype="html">
+        <source> Orange </source>
+        <target> Naranja </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/sender/sender.component.html</context>
+          <context context-type="linenumber">11,13</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
